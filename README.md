@@ -15,9 +15,7 @@
 
 <h3 align="center">Full Stack Uber Clone</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -31,22 +29,13 @@
 7. 📦 [Assets](#assets)
 8. 🚀 [More](#more)
 
-## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube
-channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
-like these step-by-step in a beginner-friendly manner!
 
 <a href="https://youtu.be/kmy_YNhl0mw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
-handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect
-mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
-skills in a unique manner that creates a lasting impact.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
 members. It's a place where people help each other out.
